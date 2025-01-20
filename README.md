@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +19,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php 
+
+   End Users osTicket URL: http://localhost/osTicket
+- Configuring Roles (for grouping permissions).
+
+  https://docs.osticket.com/en/latest/Admin/Agents/Roles.html 
+- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+
+  https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+- Configure Teams.
+
+  https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
+- Configure Agents (workers).
+
+  https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
+- Configure Users (customers).
+
+  https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
+- Configure SLA
+
+  https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
+- Configure Help Topics (For when users create a ticket).
+
+https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html
+
 
 <h2>Configuration Steps</h2>
 
