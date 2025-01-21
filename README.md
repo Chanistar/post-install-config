@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   End Users osTicket URL: http://localhost/osTicket
 - Configuring Roles (for grouping permissions).
-  https://docs.osticket.com/en/latest/Admin/Agents/Roles.html 
+  https://tinyurl.com/2p9u7exx 
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
   https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 - Configure Teams.
