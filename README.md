@@ -25,17 +25,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configuring Roles (for grouping permissions).
   https://tinyurl.com/2p9u7exx 
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-  https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+  https://tinyurl.com/2pu8afwy
 - Configure Teams.
-  https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
+  https://tinyurl.com/bdhhm3tn
 - Configure Agents (workers).
-  https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
+  https://tinyurl.com/2rrfamdh
 - Configure Users (customers).
-  https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
+  https://tinyurl.com/37uda45x
 - Configure SLA
-  https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
+  https://tinyurl.com/yzcaf5h6
 - Configure Help Topics (For when users create a ticket).
-https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html
+  https://tinyurl.com/2w8yzkef
 
 
 <h2>Configuration Steps</h2>
