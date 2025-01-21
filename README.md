@@ -41,25 +41,70 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+  ![image](https://github.com/user-attachments/assets/fc22e03b-4757-46a4-81e6-f21c51d2f603)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating mock Roles.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/user-attachments/assets/ef7c71bd-99b9-4735-b8f5-1e435dfd360d)
+ 
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Creating mock Departments.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
+  ![image](https://github.com/user-attachments/assets/e73a361d-26bf-4785-a155-7b9f795f6a3e)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Creating mock Teams.
 <br />
+
+
+
+
+![image](https://github.com/user-attachments/assets/bd114520-178c-4bc0-a8e6-a20f84e26d3f)
+
+![image](https://github.com/user-attachments/assets/00eb3849-0820-4df6-ada1-9c25f1dfada0)
+
+
+
+Creating mock Agents.
+
+
+
+
+![image](https://github.com/user-attachments/assets/38f5a6be-645e-4e0b-9f16-e45de0e088ab)
+
+
+
+Creating mock Users on the Agent Panel.
+
+
+
+
+![image](https://github.com/user-attachments/assets/585891dc-3713-43af-ad58-b53e3b16c756)
+
+
+Creating mock SLA's.
+
+
+
+![image](https://github.com/user-attachments/assets/f8a7f9ce-f246-48d5-88e4-d02ca8f5a243)
+
+
+
+Creating mock Help Topics.
+
