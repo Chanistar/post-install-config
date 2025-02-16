@@ -98,7 +98,7 @@ Creating mock Users on the Agent Panel.
 ![image](https://github.com/user-attachments/assets/585891dc-3713-43af-ad58-b53e3b16c756)
 
 
-Creating mock SLA's.
+Creating mock SLAs.
 
 
 
